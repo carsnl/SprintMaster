@@ -17,11 +17,11 @@ Sprint Master is a digital task organising tool for Agile teams to keep track of
 
 ## Preview <a name="preview">
 
-#### An empty Team Board
+#### The Team Board
 
 ![teamboard.png](./assets/images/teamboard.png)
 
-#### An empty Task Board
+#### The Task Board
 ![taskboard.png](./assets/images/taskboard.png)
 
 #### Adding someone to the team
@@ -51,7 +51,7 @@ Sprint Master is a digital task organising tool for Agile teams to keep track of
 #### Download
 1. At the top of [this repository page](https://github.com/carsnl/SprintMaster), click **Code** > **Download ZIP**
 2. Unzip the downloaded file.
-3. Open the file and click on the **SprintMaster.exe** application file to launch the program. This may take a few seconds.
+3. Open the file and click on the **SprintMaster** application file to launch the program. This may take a few seconds.
 
 #### Using the application
 
@@ -64,7 +64,7 @@ Sprint Master is a digital task organising tool for Agile teams to keep track of
 - To add someone to the team, click on "Add Team Member" and fill in the required particulars. 
 - A team member can be removed by clicking on "X" beside their name and email in the table.
 
-#### Managing Tasks
+##### Managing Tasks
 - To assign a task to an individual, there must be at least one member in the team.
 - To add a task, click on "Create Task" and fill in the required particulars. Note that "Story Points" only accepts numerical inputs.
 - To edit a task, click on "Edit" on the relevant task and update its details.
@@ -73,6 +73,8 @@ Sprint Master is a digital task organising tool for Agile teams to keep track of
 
 ## Additional Information <a name="info">
 
-This final application presented in this repository is an adapted version from a university project. Developed in collaboration with Shyam Kamalesh Borkar, Chang Lin Ong and Tiong Yue Khoo.
+The final application presented in this repository is an adapted version from a university project. Developed in collaboration with Shyam Kamalesh Borkar, Chang Lin Ong and Tiong Yue Khoo.
+
+Developed in Python, with Tkinter.
 
 For enquires, contact [laicarson.swe@gmail.com](laicarson.swe@gmail.com).    
