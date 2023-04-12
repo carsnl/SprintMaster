@@ -1,15 +1,36 @@
-# Repostiory for Group C3 FIT2101 (S2 2022)
+# Sprint Master
 
-## TEAM PROJECT BASED ON SCRUM METHODOLOGY
+## Table of Contents
 
-### Our team will be using Trello to practice the scrum methodology in our project.
+[About](#about)<br>
+[Preview](#preview)<br>
+[Use Instructions](#use)<br>
+[Additional Information](#info)<br>
 
-## Trello Link - https://trello.com/b/6VfGYN0I/fit2101-c3
+## About <a name="about">
 
-### Our Sprint Velocity - https://docs.google.com/spreadsheets/d/1xfKVNtsubDDnhRxtUgqdg5zAYKRUAvIAqLgXmCXh2HQ/edit#gid=0
+## Preview <a name="preview">
 
-### TEAM MEMBERS:
-- Chang Lin Ong            (32024509) (cong0016@student.monash.edu)
-- Lai Carson               (32238436) (lcar0029@student.monash.edu)
-- Shyam Kamalesh Borkar    (32801459) (sbor0018@student.monash.edu)
-- Tiong Yue Khoo           (32709617) (tkho0017@student.monash.edu)
+#### Adding someone to the team
+![add_member](./assets/gifs/adding_members.gif)
+
+#### Creating and deleting tasks
+![create_delete_task](./assets/gifs/create_delete_task.gif)
+
+#### Editing a task
+![edit](./assets/gifs/edit_task.gif)
+
+#### Filtering tasks by type
+![filter](./assets/gifs/filter.gif)
+
+## Use Instructions <a name="use">
+
+## Additional Information <a name="info">
+
+For enquires, contact [laicarson.swe@gmail.com](laicarson.swe@gmail.com).
+
+### Team Members
+- Chang Lin Ong           
+- Lai Carson               
+- Shyam Kamalesh Borkar    
+- Tiong Yue Khoo           
