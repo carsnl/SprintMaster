@@ -73,7 +73,7 @@ Sprint Master is a digital task organising tool for Agile teams to keep track of
 
 ## Additional Information <a name="info">
 
-The final application presented in this repository is an adapted version from a university project. Developed in collaboration with Shyam Kamalesh Borkar, Chang Lin Ong and Tiong Yue Khoo.
+The final application presented in this repository is an adapted version from a university project. Developed in collaboration with [Shyam Kamalesh Borkar](https://github.com/Code-indomitus), Chang Lin Ong and Tiong Yue Khoo.
 
 Developed in Python, with Tkinter.
 
